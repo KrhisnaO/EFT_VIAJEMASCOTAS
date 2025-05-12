@@ -49,9 +49,9 @@ mvn clean install -DskipTests
 En la terminal de la instancia:
 
 ```bash
-git clone https://github.com/KrhisnaO/EXP3_S8_VIAJEMASCOTAS.git
+git clone https://github.com/KrhisnaO/EFT_VIAJEMASCOTAS.git
 ls
-cd EXP3_S8_VIAJEMASCOTAS
+cd EFT_VIAJEMASCOTAS
 ```
 
 3. Construir y levantar los contenedores
