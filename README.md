@@ -6,7 +6,7 @@ Este es un microservicio simple desarrollado con Spring Boot, que permite intera
 ✅ CRUD completo de usuarios  
 ✅ Base de datos en **Oracle**  
 ✅ API documentada con **HATEOAS** (hipervínculos en las respuestas)  
-✅ **2 pruebas unitarias** desarrolladas con **JUnit 5**  
+✅ **9 pruebas unitarias** desarrolladas con **JUnit 5**  
 ✅ Despliegue en **Docker** mediante **docker-compose** y ejecución en **Play With Docker**
 
 ---
